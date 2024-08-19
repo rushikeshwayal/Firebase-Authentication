@@ -92,3 +92,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, please contact [your-email@example.com](mailto:your-email@example.com).
 
+
+##Vercel: https://firebase-authentication-mu.vercel.app/
+(https://firebase-authentication-mu.vercel.app/)This page was not restored from back/forward cache because a content script from the extension with ID fmkadmapgofadopljbjfkapdkoienihi received a message while the page was cached. This behavior will change shortly which may break the extension. If you are the developer of the extension, see 
